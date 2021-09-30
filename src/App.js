@@ -22,7 +22,7 @@ onChange = e => {
 //     isclicked: !prevState.isclicked
 //   }));
 // }
-//handleClick={index => this.delete(index)}
+//git handleClick={index => this.delete(index)}
 
   formsubmit= e => {
 
